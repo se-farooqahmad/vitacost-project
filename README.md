@@ -108,18 +108,6 @@ scrapy crawl <spider_name> -o output.json
 
 This will save the scraped items into `output.json`.
 
-## Contributing
-
-This repository is currently a personal project and not actively accepting external contributions. If you find issues or have suggestions:
-
-- Create an issue describing the bug or feature request.
-- Submit a pull request with improvements or fixes.
-
-## License
-
-By default, this repository has no license specified. You may choose one (for example MIT, Apache 2.0) by adding a `LICENSE` file.
-
-## Contact
 
 For questions or updates:
 
