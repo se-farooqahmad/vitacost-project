@@ -12,9 +12,7 @@ This repository contains the spider code and configuration to crawl product or n
 4. [Usage](#usage)  
 5. [Configuration](#configuration)  
 6. [Output](#output)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
-9. [Contact](#contact)
+
 
 ## About
 
